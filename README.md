@@ -11,9 +11,7 @@
 - 👯 I’m looking to collaborate on **Systems Development**
 
 - 💬 Ask me about **Python, SQL**
-
-- 📫 How to reach me **hastavista7@gmail.com**
-
+- 
 - ⚡ Fun fact **I love anime & football**
 
 <h3 align="left">Connect with me:</h3>
