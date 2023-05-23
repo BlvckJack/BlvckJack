@@ -6,12 +6,12 @@
 
 - 🔭 I’m currently working on **Network Security using Python**
 
-- 🌱 I’m currently learning **Ruby & Java**
+- 🌱 I’m currently learning **C/C++ and Java**
 
-- 👯 I’m looking to collaborate on **Systems Development**
+- 👯 I’m looking to collaborate on **Software Development**
 
-- 💬 Ask me about **Python, SQL**
-- 
+- 💬 Ask me about **Python, Database Development**
+ 
 - ⚡ Fun fact **I love anime & football**
 
 <h3 align="left">Connect with me:</h3>
