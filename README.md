@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fidel Ogono</h1>
-<h3 align="center">A passionate Penetration Tester from Kenya</h3>
+<h3 align="center">A passionate Ethical Hacker & Penetration Tester</h3>
 <img align="right" alt="Coding" width="400" src=https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blvckjack&label=Profile%20views&color=0e75b6&style=flat" alt="blvckjack" /> </p>
